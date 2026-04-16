@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1776312604018" clover="3.2.0">
-  <project timestamp="1776312604018" name="All files">
+<coverage generated="1776313136134" clover="3.2.0">
+  <project timestamp="1776313136134" name="All files">
     <metrics statements="7" coveredstatements="7" conditionals="2" coveredconditionals="2" methods="4" coveredmethods="4" elements="13" coveredelements="13" complexity="0" loc="7" ncloc="7" packages="1" files="1" classes="1"/>
     <file name="math.js" path="/Users/thrishul/Desktop/jest-starter-repo/src/utils/math.js">
       <metrics statements="7" coveredstatements="7" conditionals="2" coveredconditionals="2" methods="4" coveredmethods="4"/>
